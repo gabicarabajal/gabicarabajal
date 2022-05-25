@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Gabriela!
+I'm a Full-Stack Developer from 📍Argentina
 
 <!--
 **gabicarabajal/gabicarabajal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
