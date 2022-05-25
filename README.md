@@ -1,4 +1,4 @@
-<h1> Hi there 👋 I'm Gabriela! </h1>
+ <h1 aling="center" > Hi there 👋 I'm Gabriela! </h1>
 I'm a Full-Stack Developer from 📍Argentina
 
 <!--
